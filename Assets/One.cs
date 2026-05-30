@@ -4,7 +4,7 @@ public class One : MonoBehaviour
 {
     void Start()
     {
-        // 안녕123123
+        // 안녕123123456
         int damage = 10;
         Debug.Log("데미지 : " + damage);
         // 안녕456456
